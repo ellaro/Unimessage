@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087879214336",
+    "project_id": "unimessage-a3fe7",
+    "storage_bucket": "unimessage-a3fe7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087879214336:android:ab80c75456e4fc171fafe5",
+        "android_client_info": {
+          "package_name": "com.ellaro.lasttimeella"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087879214336-jqb8fqkh8qhoeg3bt5g127k3qpq76tj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTT_IcJcTVwytGwxq6Q7ZL40-lonsLFxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087879214336-jqb8fqkh8qhoeg3bt5g127k3qpq76tj8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
